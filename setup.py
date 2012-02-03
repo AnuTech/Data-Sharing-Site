@@ -21,7 +21,7 @@ setup(
     keywords="geonode django",
     url='https://github.com/AnuTech/Data-Sharing-Site',
     scripts = [
-               'scripts/Data-Sharing-Site',
+               'scripts/DataSharingSite',
               ],
     packages=find_packages('.'),
     include_package_data=True,
